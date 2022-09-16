@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Macro title="MuteTrack4" group="Diapason" description="">
+	<CommandElement category="Navigation" name="First Track"/>
+	<CommandElement category="Navigation" name="Next Track"/>
+	<CommandElement category="Navigation" name="Next Track"/>
+	<CommandElement category="Navigation" name="Next Track"/>
+	<CommandElement category="Track" name="Mute">
+		<CommandArgument name="State" value=""/>
+	</CommandElement>
+</Macro>

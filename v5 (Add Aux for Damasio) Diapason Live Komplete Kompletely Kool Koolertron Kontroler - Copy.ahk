@@ -320,6 +320,8 @@ S1Mute1Off:
 ;F12	F6	F7	F8	F9	F10
 ;F1	F2	F3	F11	ScrollLock
 ;;;;
+;PgUp and PgDown are buttons on any powerpoint wireless slide advancer.
+;;;;
 ;Remember hotkeys are blocked from doing anything other than what's in the script
 ;So Num1 etc won't actually type anything anywhere.
 ;;;;
@@ -433,13 +435,13 @@ TxF24:
 		GoSub, S1Mute3
 		}
 	if (CxF24 = 2 and UxF24 = 2) {
-		GoSub, S1Mute3
+		GoSub, S1Mute4
 		}
 	if (CxF24 = 1 and UxF24 = 0) {
 		GoSub, S1Mute3
 		}
 	if (CxF24 = 2 and UxF24 = 1) {
-		GoSub, S1Mute3
+		GoSub, S1Mute4
 		}
 	CxF24 = 0
 	UxF24 = 0
