@@ -1,0 +1,1 @@
+Open obs settings, go to hotkey tab, choose commands you want to keybind and press desired configured buttons or combinations on the koolertron

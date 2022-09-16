@@ -1,0 +1,1476 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Commands name="Studio One" modified="1">
+	<Command category="Application" name="Activate Purchased Items"/>
+	<Command category="Application" name="Activation"/>
+	<Command category="Application" name="Extensions"/>
+	<Command category="Application" name="Installation"/>
+	<Command category="Application" name="Keyboard Shortcuts"/>
+	<Command category="Application" name="Login"/>
+	<Command category="Application" name="Options">
+		<Key name="Ctrl+,"/>
+	</Command>
+	<Command category="Arranger" name="Add Arranger Section from Selection">
+		<Key name="Shift+A"/>
+	</Command>
+	<Command category="Arranger" name="Copy to new Scratch Pad"/>
+	<Command category="Arranger" name="Create Markers from Sections"/>
+	<Command category="Arranger" name="Create Sections from Markers">
+		<Key name="Shift+M"/>
+	</Command>
+	<Command category="Arranger" name="Delete Range"/>
+	<Command category="Arranger" name="Goto Next Section"/>
+	<Command category="Arranger" name="Goto Previous Section"/>
+	<Command category="Arranger" name="Move to new Scratch Pad"/>
+	<Command category="Arranger" name="Select Events in Section"/>
+	<Command category="Audio" name="Apply Audio Bend"/>
+	<Command category="Audio" name="Apply Chords from Chord Track"/>
+	<Command category="Audio" name="Create Autofades">
+		<Key name="Shift+X"/>
+	</Command>
+	<Command category="Audio" name="Create Crossfades">
+		<Key name="X"/>
+	</Command>
+	<Command category="Audio" name="Decrease Volume">
+		<Key name="Alt+NumPad-"/>
+	</Command>
+	<Command category="Audio" name="Decrease Volume Fine">
+		<Key name="Shift+Alt+NumPad-"/>
+	</Command>
+	<Command category="Audio" name="Detect Chords"/>
+	<Command category="Audio" name="Detect Transients"/>
+	<Command category="Audio" name="Dissolve Audio Part"/>
+	<Command category="Audio" name="Edit Volume"/>
+	<Command category="Audio" name="Edit with Melodyne"/>
+	<Command category="Audio" name="Fade In to Cursor"/>
+	<Command category="Audio" name="Fade Out from Cursor"/>
+	<Command category="Audio" name="Increase Volume">
+		<Key name="Alt+NumPad+"/>
+	</Command>
+	<Command category="Audio" name="Increase Volume Fine">
+		<Key name="Shift+Alt+NumPad+"/>
+	</Command>
+	<Command category="Audio" name="Insert Event FX">
+		<Key name="Shift+E"/>
+	</Command>
+	<Command category="Audio" name="Merge to Audio Part"/>
+	<Command category="Audio" name="Normalize Audio">
+		<Key name="Alt+N"/>
+	</Command>
+	<Command category="Audio" name="Open Event FX Editor">
+		<Key name="Alt+F"/>
+	</Command>
+	<Command category="Audio" name="Remove Bend Markers"/>
+	<Command category="Audio" name="Remove Chords"/>
+	<Command category="Audio" name="Remove Melodyne"/>
+	<Command category="Audio" name="Render Event FX">
+		<Key name="Ctrl+Shift+E"/>
+	</Command>
+	<Command category="Audio" name="Restore Event FX">
+		<Key name="Ctrl+Shift+Alt+E"/>
+	</Command>
+	<Command category="Audio" name="Reverse Audio">
+		<Key name="Ctrl+R"/>
+	</Command>
+	<Command category="Audio" name="Select in Pool"/>
+	<Command category="Audio" name="Send To new Impact"/>
+	<Command category="Audio" name="Send To new SampleOne"/>
+	<Command category="Audio" name="Split at Bend Markers"/>
+	<Command category="Audio" name="Strip Silence"/>
+	<Command category="Audio Device" name="Dim"/>
+	<Command category="Audio Device" name="Mono"/>
+	<Command category="Audio Device" name="Mute"/>
+	<Command category="Audio Device" name="Restore Audio Device Settings"/>
+	<Command category="Audio Device" name="Speaker A"/>
+	<Command category="Audio Device" name="Speaker B"/>
+	<Command category="Audio Device" name="Speaker C"/>
+	<Command category="Audio Device" name="Talkback"/>
+	<Command category="Automation" name="Add Automation Lane"/>
+	<Command category="Automation" name="Latch"/>
+	<Command category="Automation" name="Manage Parameters"/>
+	<Command category="Automation" name="Mouse-Over"/>
+	<Command category="Automation" name="Next Mode"/>
+	<Command category="Automation" name="Next Parameter"/>
+	<Command category="Automation" name="Off"/>
+	<Command category="Automation" name="Previous Mode"/>
+	<Command category="Automation" name="Previous Parameter">
+		<Key name="Shift+H"/>
+	</Command>
+	<Command category="Automation" name="Read"/>
+	<Command category="Automation" name="Recently Touched"/>
+	<Command category="Automation" name="Remove">
+		<Key name="Shift+Alt+R"/>
+	</Command>
+	<Command category="Automation" name="Remove Automation Lane"/>
+	<Command category="Automation" name="Remove Current Parameter"/>
+	<Command category="Automation" name="Remove Parameter"/>
+	<Command category="Automation" name="Show / Hide">
+		<Key name="Ctrl+Shift+Alt+A"/>
+	</Command>
+	<Command category="Automation" name="Show Current Parameter">
+		<Key name="Alt+A"/>
+	</Command>
+	<Command category="Automation" name="Show Device"/>
+	<Command category="Automation" name="Toggle Read"/>
+	<Command category="Automation" name="Touch">
+		<Key name="K"/>
+	</Command>
+	<Command category="Automation" name="Transform Range"/>
+	<Command category="Automation" name="Write">
+		<Key name="Alt+W"/>
+	</Command>
+	<Command category="Browser" name="Ascend Root"/>
+	<Command category="Browser" name="Close Tab"/>
+	<Command category="Browser" name="Insert Selected Instrument"/>
+	<Command category="Browser" name="New Folder"/>
+	<Command category="Browser" name="New Root Tab"/>
+	<Command category="Browser" name="New Tab"/>
+	<Command category="Browser" name="Refresh"/>
+	<Command category="Browser" name="Rename File"/>
+	<Command category="Browser" name="Rename Tab"/>
+	<Command category="Browser" name="Reset Root"/>
+	<Command category="Browser" name="Show Cloud"/>
+	<Command category="Browser" name="Show Effects">
+		<Key name="F7"/>
+	</Command>
+	<Command category="Browser" name="Show Files">
+		<Key name="F9"/>
+	</Command>
+	<Command category="Browser" name="Show Home Page"/>
+	<Command category="Browser" name="Show in Explorer/Finder"/>
+	<Command category="Browser" name="Show Instruments">
+		<Key name="F6"/>
+	</Command>
+	<Command category="Browser" name="Show Loops">
+		<Key name="F8"/>
+	</Command>
+	<Command category="Browser" name="Show Pool">
+		<Key name="F10"/>
+	</Command>
+	<Command category="Channel Components" name="Show Audio Device Controls"/>
+	<Command category="Channel Components" name="Show Channel Notes"/>
+	<Command category="Channel Components" name="Show Group Assignment"/>
+	<Command category="Channel Components" name="Show I/O Connections"/>
+	<Command category="Channel Components" name="Show Input Controls"/>
+	<Command category="Channel Components" name="Show Sends/Cue mix"/>
+	<Command category="Channel Components" name="Show VCA Connections"/>
+	<Command category="Console" name="Add Bus Channel"/>
+	<Command category="Console" name="Add FX Channel"/>
+	<Command category="Console" name="Add Insert"/>
+	<Command category="Console" name="Add Post Fader Insert"/>
+	<Command category="Console" name="Add Send"/>
+	<Command category="Console" name="Global Mute">
+		<Key name="Ctrl+Shift+M"/>
+	</Command>
+	<Command category="Console" name="Global Solo">
+		<Key name="Ctrl+Shift+S"/>
+	</Command>
+	<Command category="Console" name="Hide Channel"/>
+	<Command category="Console" name="Hide Related Channels"/>
+	<Command category="Console" name="Mono"/>
+	<Command category="Console" name="Next Bank">
+		<Key name="}"/>
+	</Command>
+	<Command category="Console" name="Next Channel">
+		<Key name="]"/>
+	</Command>
+	<Command category="Console" name="Next Scene"/>
+	<Command category="Console" name="Open Channel"/>
+	<Command category="Console" name="Previous Bank">
+		<Key name="{"/>
+	</Command>
+	<Command category="Console" name="Previous Channel">
+		<Key name="["/>
+	</Command>
+	<Command category="Console" name="Previous Scene"/>
+	<Command category="Console" name="Remove Channel">
+		<Key name="Shift+Alt+T"/>
+	</Command>
+	<Command category="Console" name="Rename Channel"/>
+	<Command category="Console" name="Select Mix FX"/>
+	<Command category="Console" name="Select Scene 1"/>
+	<Command category="Console" name="Select Scene 2"/>
+	<Command category="Console" name="Select Scene 3"/>
+	<Command category="Console" name="Select Scene 4"/>
+	<Command category="Console" name="Select Scene 5"/>
+	<Command category="Console" name="Show Channel"/>
+	<Command category="Console" name="Show Channel Banks"/>
+	<Command category="Console" name="Show Channel Editor">
+		<Key name="F11"/>
+	</Command>
+	<Command category="Console" name="Show External Devices"/>
+	<Command category="Console" name="Show Inputs"/>
+	<Command category="Console" name="Show Instrument Editor">
+		<Key name="Shift+F11"/>
+	</Command>
+	<Command category="Console" name="Show Instrument Rack"/>
+	<Command category="Console" name="Show Outputs"/>
+	<Command category="Console" name="Show Related Channels"/>
+	<Command category="Console" name="Show Track"/>
+	<Command category="Console" name="Toggle Related Channels"/>
+	<Command category="Console" name="Toggle Size">
+		<Key name="Shift+F3"/>
+	</Command>
+	<Command category="Console" name="Toggle Width"/>
+	<Command category="Devices" name="Activate All Inserts"/>
+	<Command category="Devices" name="All Notes Off">
+		<Key name="#"/>
+	</Command>
+	<Command category="Devices" name="Assign Current Parameter">
+		<Key name="Alt+M"/>
+	</Command>
+	<Command category="Devices" name="Open Qwerty Keyboard">
+		<Key name="Caps Lock"/>
+	</Command>
+	<Command category="Edit" name="Autoscroll">
+		<Key name="F"/>
+	</Command>
+	<Command category="Edit" name="Clear Chord Track"/>
+	<Command category="Edit" name="Copy">
+		<Key name="Ctrl+C"/>
+	</Command>
+	<Command category="Edit" name="Create Range from Cursor"/>
+	<Command category="Edit" name="Create Range from Cursor to Hotspot"/>
+	<Command category="Edit" name="Create Ranges">
+		<Key name="Alt+R"/>
+	</Command>
+	<Command category="Edit" name="Create Ranges on Tracks">
+		<Key name="Shift+R"/>
+	</Command>
+	<Command category="Edit" name="Cut">
+		<Key name="Ctrl+X"/>
+	</Command>
+	<Command category="Edit" name="Delete">
+		<Key name="Del"/>
+		<Key name="Backspace"/>
+	</Command>
+	<Command category="Edit" name="Delete Time"/>
+	<Command category="Edit" name="Delete Time in Loop"/>
+	<Command category="Edit" name="Delete Undo History"/>
+	<Command category="Edit" name="Deselect All">
+		<Key name="Ctrl+D"/>
+	</Command>
+	<Command category="Edit" name="Deselect All on Tracks"/>
+	<Command category="Edit" name="Duplicate">
+		<Key name="D"/>
+	</Command>
+	<Command category="Edit" name="Duplicate and Insert">
+		<Key name="Alt+D"/>
+	</Command>
+	<Command category="Edit" name="Duplicate Shared">
+		<Key name="Shift+D"/>
+	</Command>
+	<Command category="Edit" name="History"/>
+	<Command category="Edit" name="Insert Bend Marker">
+		<Key name="Alt+Ins"/>
+	</Command>
+	<Command category="Edit" name="Insert Silence">
+		<Key name="Ctrl+Alt+I"/>
+	</Command>
+	<Command category="Edit" name="Insert Silence in Loop"/>
+	<Command category="Edit" name="Invert Selection">
+		<Key name="Ctrl+I"/>
+	</Command>
+	<Command category="Edit" name="Move Range"/>
+	<Command category="Edit" name="Move Range Back"/>
+	<Command category="Edit" name="Move Range Down"/>
+	<Command category="Edit" name="Move Range to Hotspot"/>
+	<Command category="Edit" name="Move Range to Hotspot Back"/>
+	<Command category="Edit" name="Move Range Up"/>
+	<Command category="Edit" name="Move to Cursor">
+		<Key name="Ctrl+L"/>
+	</Command>
+	<Command category="Edit" name="Move to Origin">
+		<Key name="Alt+O"/>
+	</Command>
+	<Command category="Edit" name="Nudge">
+		<Key name="Alt+Right Arrow"/>
+	</Command>
+	<Command category="Edit" name="Nudge Back">
+		<Key name="Alt+Left Arrow"/>
+	</Command>
+	<Command category="Edit" name="Nudge Bar">
+		<Key name="Ctrl+Alt+Right Arrow"/>
+	</Command>
+	<Command category="Edit" name="Nudge Bar Back">
+		<Key name="Ctrl+Alt+Left Arrow"/>
+	</Command>
+	<Command category="Edit" name="Nudge Down">
+		<Key name="Alt+Down Arrow"/>
+	</Command>
+	<Command category="Edit" name="Nudge Down Fine">
+		<Key name="Shift+Alt+Down Arrow"/>
+	</Command>
+	<Command category="Edit" name="Nudge Up">
+		<Key name="Alt+Up Arrow"/>
+	</Command>
+	<Command category="Edit" name="Nudge Up Fine">
+		<Key name="Shift+Alt+Up Arrow"/>
+	</Command>
+	<Command category="Edit" name="Paste">
+		<Key name="Ctrl+V"/>
+	</Command>
+	<Command category="Edit" name="Paste at Original Position">
+		<Key name="Ctrl+Shift+V"/>
+	</Command>
+	<Command category="Edit" name="Range End to Cursor"/>
+	<Command category="Edit" name="Range Start to Cursor"/>
+	<Command category="Edit" name="Redo">
+		<Key name="Ctrl+Y"/>
+		<Key name="Ctrl+Shift+Z"/>
+	</Command>
+	<Command category="Edit" name="Reset Bend Marker">
+		<Key name="Ctrl+Shift+Alt+R"/>
+	</Command>
+	<Command category="Edit" name="Search">
+		<Key name="Ctrl+F"/>
+	</Command>
+	<Command category="Edit" name="Select All">
+		<Key name="Ctrl+A"/>
+	</Command>
+	<Command category="Edit" name="Select All in Loop">
+		<Key name="Alt+L"/>
+	</Command>
+	<Command category="Edit" name="Select All on Tracks"/>
+	<Command category="Edit" name="Select Events in Range"/>
+	<Command category="Edit" name="Select from Event to End"/>
+	<Command category="Edit" name="Select from Start to Event"/>
+	<Command category="Edit" name="Select Muted Events"/>
+	<Command category="Edit" name="Size Range End">
+		<Key name="Ctrl+Shift+Alt+J"/>
+	</Command>
+	<Command category="Edit" name="Size Range End Back"/>
+	<Command category="Edit" name="Size Range End Down"/>
+	<Command category="Edit" name="Size Range End to Hotspot">
+		<Key name="Ctrl+Shift+Alt+H"/>
+	</Command>
+	<Command category="Edit" name="Size Range End to Hotspot Back"/>
+	<Command category="Edit" name="Size Range End Up"/>
+	<Command category="Edit" name="Size Range Start"/>
+	<Command category="Edit" name="Size Range Start Back"/>
+	<Command category="Edit" name="Size Range Start Down"/>
+	<Command category="Edit" name="Size Range Start to Hotspot">
+		<Key name="Ctrl+Shift+Alt+F"/>
+	</Command>
+	<Command category="Edit" name="Size Range Start to Hotspot Back"/>
+	<Command category="Edit" name="Size Range Start Up"/>
+	<Command category="Edit" name="Snap Relative Grid"/>
+	<Command category="Edit" name="Snap to Cursor &amp; Loop"/>
+	<Command category="Edit" name="Snap To Event Hotspots"/>
+	<Command category="Edit" name="Snap To Events"/>
+	<Command category="Edit" name="Snap To Grid"/>
+	<Command category="Edit" name="Snap To Zero Crossings"/>
+	<Command category="Edit" name="Split">
+		<Key name="S"/>
+	</Command>
+	<Command category="Edit" name="Split at Cursor"/>
+	<Command category="Edit" name="Split Loop">
+		<Key name="Ctrl+Shift+X"/>
+	</Command>
+	<Command category="Edit" name="Split Range">
+		<Key name="Ctrl+Alt+X"/>
+	</Command>
+	<Command category="Edit" name="Synchronize Editor to Arrangement"/>
+	<Command category="Edit" name="Toggle Ripple Edit"/>
+	<Command category="Edit" name="Toggle Snap">
+		<Key name="N"/>
+	</Command>
+	<Command category="Edit" name="Transpose Chords"/>
+	<Command category="Edit" name="Undo">
+		<Key name="Ctrl+Z"/>
+	</Command>
+	<Command category="Event" name="Bounce Selection">
+		<Key name="Alt+#"/>
+		<Key name="Shift+Alt+B"/>
+	</Command>
+	<Command category="Event" name="Bounce To New Track"/>
+	<Command category="Event" name="Copy Ranges to Track"/>
+	<Command category="Event" name="Crop to Content"/>
+	<Command category="Event" name="Export Selection"/>
+	<Command category="Event" name="Extend to Part End"/>
+	<Command category="Event" name="Extract to Chord Track"/>
+	<Command category="Event" name="Fill Gaps"/>
+	<Command category="Event" name="Merge Events">
+		<Key name="G"/>
+	</Command>
+	<Command category="Event" name="Mixdown Selection"/>
+	<Command category="Event" name="Mute Events"/>
+	<Command category="Event" name="Quantize">
+		<Key name="Q"/>
+	</Command>
+	<Command category="Event" name="Quantize 50%">
+		<Key name="Alt+Q"/>
+	</Command>
+	<Command category="Event" name="Quantize on Track"/>
+	<Command category="Event" name="Remove Gaps"/>
+	<Command category="Event" name="Rename Events"/>
+	<Command category="Event" name="Replace Event With Next Layer"/>
+	<Command category="Event" name="Replace Event With Previous Layer"/>
+	<Command category="Event" name="Restore Timing">
+		<Key name="Shift+Q"/>
+	</Command>
+	<Command category="Event" name="Send to Back"/>
+	<Command category="Event" name="Send to Front"/>
+	<Command category="Event" name="Split at Grid"/>
+	<Command category="Event" name="Toggle Edit Lock"/>
+	<Command category="Event" name="Toggle Mute">
+		<Key name="Ctrl+M"/>
+	</Command>
+	<Command category="Event" name="Toggle Time Lock"/>
+	<Command category="Event" name="Transpose Events Down"/>
+	<Command category="Event" name="Transpose Events Up"/>
+	<Command category="Event" name="Trim End to Cursor">
+		<Key name="Ctrl+Shift+Alt+D"/>
+	</Command>
+	<Command category="Event" name="Trim Start to Cursor"/>
+	<Command category="Event" name="Unmute Events"/>
+	<Command category="File" name="Clear Recent Files"/>
+	<Command category="File" name="Close">
+		<Key name="Ctrl+W"/>
+		<Key name="Ctrl+F4"/>
+	</Command>
+	<Command category="File" name="Close All"/>
+	<Command category="File" name="New"/>
+	<Command category="File" name="New Project">
+		<Key name="Ctrl+Shift+N"/>
+	</Command>
+	<Command category="File" name="New Song">
+		<Key name="Ctrl+N"/>
+	</Command>
+	<Command category="File" name="Open">
+		<Key name="Ctrl+O"/>
+	</Command>
+	<Command category="File" name="Quit">
+		<Key name="Ctrl+Q"/>
+	</Command>
+	<Command category="File" name="Rename"/>
+	<Command category="File" name="Restore Version"/>
+	<Command category="File" name="Revert"/>
+	<Command category="File" name="Save">
+		<Key name="Ctrl+S"/>
+	</Command>
+	<Command category="File" name="Save As">
+		<Key name="Ctrl+Alt+S"/>
+	</Command>
+	<Command category="File" name="Save As Template"/>
+	<Command category="File" name="Save New Version">
+		<Key name="Ctrl+Shift+Alt+S"/>
+	</Command>
+	<Command category="File" name="Save to New Folder"/>
+	<Command category="Gadgets" name="Macro Organizer"/>
+	<Command category="Gadgets" name="SoundCloud Client"/>
+	<Command category="Group" name="Suspend All Groups">
+		<Key name="Ctrl+Alt+G"/>
+	</Command>
+	<Command category="Group" name="Suspend Group"/>
+	<Command category="Group" name="Suspend Group 1">
+		<Key name="Alt+1"/>
+	</Command>
+	<Command category="Group" name="Suspend Group 10">
+		<Key name="Alt+0"/>
+	</Command>
+	<Command category="Group" name="Suspend Group 2">
+		<Key name="Alt+2"/>
+	</Command>
+	<Command category="Group" name="Suspend Group 3">
+		<Key name="Alt+3"/>
+	</Command>
+	<Command category="Group" name="Suspend Group 4">
+		<Key name="Alt+4"/>
+	</Command>
+	<Command category="Group" name="Suspend Group 5">
+		<Key name="Alt+5"/>
+	</Command>
+	<Command category="Group" name="Suspend Group 6">
+		<Key name="Alt+6"/>
+	</Command>
+	<Command category="Group" name="Suspend Group 7">
+		<Key name="Alt+7"/>
+	</Command>
+	<Command category="Group" name="Suspend Group 8">
+		<Key name="Alt+8"/>
+	</Command>
+	<Command category="Group" name="Suspend Group 9">
+		<Key name="Alt+9"/>
+	</Command>
+	<Command category="Help" name="About"/>
+	<Command category="Help" name="Check for Updates"/>
+	<Command category="Help" name="Contents">
+		<Key name="Alt+F1"/>
+	</Command>
+	<Command category="Help" name="Context Help">
+		<Key name="F1"/>
+	</Command>
+	<Command category="Help" name="Keyboard Shortcuts"/>
+	<Command category="Help" name="Open Settings Folder"/>
+	<Command category="Help" name="System Information"/>
+	<Command category="Help" name="View Release Notes"/>
+	<Command category="Help" name="Website"/>
+	<Command category="Instrument Parts" name="Convert Pattern to Part"/>
+	<Command category="Instrument Parts" name="Detect Key Signature"/>
+	<Command category="Instrument Parts" name="Explode Pitches to Tracks"/>
+	<Command category="Instrument Parts" name="Insert Instrument Part">
+		<Key name="Ctrl+P"/>
+	</Command>
+	<Command category="Instrument Parts" name="Insert Pattern"/>
+	<Command category="Instrument Parts" name="Remove Part Automation"/>
+	<Command category="Instrument Parts" name="Render Instrument Tracks"/>
+	<Command category="Instrument Parts" name="Separate Shared Copies"/>
+	<Command category="Macros" name="Macro LSA0dGg="/>
+	<Command category="Macros" name="Macro LSA1dGg="/>
+	<Command category="Macros" name="Macro LSBEaW1pbmlzaGVkIDV0aA=="/>
+	<Command category="Macros" name="Macro LSBNYWpvciAybmQ="/>
+	<Command category="Macros" name="Macro LSBNYWpvciAzcmQ="/>
+	<Command category="Macros" name="Macro LSBNYWpvciA2dGg="/>
+	<Command category="Macros" name="Macro LSBNYWpvciA3dGg="/>
+	<Command category="Macros" name="Macro LSBNaW5vciAybmQ="/>
+	<Command category="Macros" name="Macro LSBNaW5vciAzcmQ="/>
+	<Command category="Macros" name="Macro LSBNaW5vciA2dGg="/>
+	<Command category="Macros" name="Macro LSBNaW5vciA3dGg="/>
+	<Command category="Macros" name="Macro KyA0dGg="/>
+	<Command category="Macros" name="Macro KyA1dGg="/>
+	<Command category="Macros" name="Macro KyBEaW1pbmlzaGVkIDV0aA=="/>
+	<Command category="Macros" name="Macro KyBNYWpvciAybmQ="/>
+	<Command category="Macros" name="Macro KyBNYWpvciAzcmQ="/>
+	<Command category="Macros" name="Macro KyBNYWpvciA2dGg="/>
+	<Command category="Macros" name="Macro KyBNYWpvciA3dGg="/>
+	<Command category="Macros" name="Macro KyBNaW5vciAybmQ="/>
+	<Command category="Macros" name="Macro KyBNaW5vciAzcmQ="/>
+	<Command category="Macros" name="Macro KyBNaW5vciA2dGg="/>
+	<Command category="Macros" name="Macro KyBNaW5vciA3dGg="/>
+	<Command category="Macros" name="Macro NHRoIGFib3Zl"/>
+	<Command category="Macros" name="Macro NHRoIGJlbG93"/>
+	<Command category="Macros" name="Macro NXRoIGFib3Zl"/>
+	<Command category="Macros" name="Macro NXRoIGJlbG93"/>
+	<Command category="Macros" name="Macro QWRkIEZpdmUgTGF5ZXJz"/>
+	<Command category="Macros" name="Macro QWRkIENvbXByZXNzb3I="/>
+	<Command category="Macros" name="Macro QWRkIEVR"/>
+	<Command category="Macros" name="Macro QWRkIEdhaW5Ucmlt"/>
+	<Command category="Macros" name="Macro QWRkIFNwYWNlIERlbGF5IChFdmVudCBGWCk="/>
+	<Command category="Macros" name="Macro QWxpZ24gVHJhbnNpZW50cw=="/>
+	<Command category="Macros" name="Macro QWxsIEZYIG9mZg=="/>
+	<Command category="Macros" name="Macro QXBwbHkgUmV2ZXJzZSBSZXZlcmI="/>
+	<Command category="Macros" name="Macro QXVnbWVudGVkIFRyaWFk"/>
+	<Command category="Macros" name="Macro Q2hvcmQgRG93bg=="/>
+	<Command category="Macros" name="Macro Q2hvcmQgVXA="/>
+	<Command category="Macros" name="Macro Q29weSAmIFBhc3Rl"/>
+	<Command category="Macros" name="Macro Q29weSBUbyBOZXcgTGF5ZXI="/>
+	<Command category="Macros" name="Macro Q29weSBUbyBOZXcgVHJhY2s="/>
+	<Command category="Macros" name="Macro QWRkIFRyYWNrIEZpdmUgTmV3IExheWVycw=="/>
+	<Command category="Macros" name="Macro Q3JlYXRlIFNvbmcgTWFya2Vycw=="/>
+	<Command category="Macros" name="Macro Q3JvcCBTZWxlY3Rpb24="/>
+	<Command category="Macros" name="Macro Q3V0IFRvIEN1cnNvcg=="/>
+	<Command category="Macros" name="Macro Q3V0IFRvIE5ldyBMYXllcg=="/>
+	<Command category="Macros" name="Macro Q3V0IFRvIE5ldyBUcmFjaw=="/>
+	<Command category="Macros" name="Macro RGVhY3RpdmF0ZSAmIEhpZGUgVHJhY2s="/>
+	<Command category="Macros" name="Macro RGVjcmVhc2UgVm9sdW1lIC0zZEI="/>
+	<Command category="Macros" name="Macro RGVsZXRlIERvdWJsZSBOb3Rlcw=="/>
+	<Command category="Macros" name="Macro RGVsZXRlIE5vdGVzIFJhbmRvbWx5IDUwJQ=="/>
+	<Command category="Macros" name="Macro RGVsZXRlIFNob3J0IE5vdGVz"/>
+	<Command category="Macros" name="Macro RGVzZWxlY3QgQWxs"/>
+	<Command category="Macros" name="Macro RGltaW5pc2hlZCBUcmlhZA=="/>
+	<Command category="Macros" name="Macro RGlzdHJpYnV0ZSBOb3RlcyAxMDAl"/>
+	<Command category="Macros" name="Macro RGlzdHJpYnV0ZSBOb3RlcyA1MCU="/>
+	<Command category="Macros" name="Macro RGlzdHJpYnV0ZSBOb3RlcyA3NSU="/>
+	<Command category="Macros" name="Macro RG9taW5hbnQgN3RoIENob3Jk"/>
+	<Command category="Macros" name="Macro RG91YmxlIE9jdGF2ZSBhYm92ZQ=="/>
+	<Command category="Macros" name="Macro RG91YmxlIE9jdGF2ZSBiZWxvdw=="/>
+	<Command category="Macros" name="Macro RG91YmxlIFRlbXBv"/>
+	<Command category="Macros" name="Macro RmlsbCAxNg=="/>
+	<Command category="Macros" name="Macro RmlsbCA4"/>
+	<Command category="Macros" name="Macro RmlsbCA4XzE2"/>
+	<Command category="Macros" name="Macro Rm9yd2FyZCBiYXIgYW5kIHRlbXBvIG1hcms="/>
+	<Command category="Macros" name="Macro RnVsbCBBcnJhbmdlIEFsaWdu"/>
+	<Command category="Macros" name="Macro SGFsZiBUZW1wbw=="/>
+	<Command category="Macros" name="Macro SHVtYW5pemU="/>
+	<Command category="Macros" name="Macro SHVtYW5pemUgVGltZQ=="/>
+	<Command category="Macros" name="Macro SW5jcmVhc2UgVm9sdW1lICszZEI="/>
+	<Command category="Macros" name="Macro TGVnYXRv"/>
+	<Command category="Macros" name="Macro TGVnYXRvICgxMCBtcyk="/>
+	<Command category="Macros" name="Macro TGVnYXRvICgyMCBtcyk="/>
+	<Command category="Macros" name="Macro TGVnYXRvICg1MCBtcyk="/>
+	<Command category="Macros" name="Macro TGVnICsgT3ZscA=="/>
+	<Command category="Macros" name="Macro TGVnYXRvICsgUmVtb3ZlIE92ZXJsYXBz"/>
+	<Command category="Macros" name="Macro TG9vcCBTZWxlY3Rpb24="/>
+	<Command category="Macros" name="Macro TWFqb3IgN3RoIENob3Jk"/>
+	<Command category="Macros" name="Macro TWFqb3IgVHJpYWQ="/>
+	<Command category="Macros" name="Macro TWVyZ2UgQWxsIEV2ZW50cyBpbiBMb29w"/>
+	<Command category="Macros" name="Macro TWVyZ2UgQWxsIEV2ZW50cyBvbiBTZWxlY3RlZCBUcmFja3M="/>
+	<Command category="Macros" name="Macro TWlub3IgN3RoIENob3Jk"/>
+	<Command category="Macros" name="Macro TWlub3IgVHJpYWQ="/>
+	<Command category="Macros" name="Macro TWlycm9yIE5vdGVzIChGaXJzdCBOb3RlKQ=="/>
+	<Command category="Macros" name="Macro TWlycm9yIE5vdGVzIChNaWRkbGUp"/>
+	<Command category="Macros" name="Macro TXV0ZQ=="/>
+	<Command category="Macros" name="Macro TXV0ZSBUcmFjayAx">
+		<Key name="F13"/>
+	</Command>
+	<Command category="Macros" name="Macro TXV0ZSBUcmFjayAy">
+		<Key name="F14"/>
+	</Command>
+	<Command category="Macros" name="Macro TXV0ZSBUcmFjayAz">
+		<Key name="F15"/>
+	</Command>
+	<Command category="Macros" name="Macro TXV0ZSBUcmFjayA0">
+		<Key name="F16"/>
+	</Command>
+	<Command category="Macros" name="Macro TXV0ZTFPZmY="/>
+	<Command category="Macros" name="Macro TXV0ZTFPbg=="/>
+	<Command category="Macros" name="Macro Tm9ybWFsaXplIEF1ZGlvICYgU2V0IFBlYWtzIFRvIC0xMg=="/>
+	<Command category="Macros" name="Macro Tm90ZSBsZW5ndGggMV8x"/>
+	<Command category="Macros" name="Macro Tm90ZSBsZW5ndGggMV8xNg=="/>
+	<Command category="Macros" name="Macro Tm90ZSBsZW5ndGggMV8y"/>
+	<Command category="Macros" name="Macro Tm90ZSBsZW5ndGggMV8zMg=="/>
+	<Command category="Macros" name="Macro Tm90ZSBsZW5ndGggMV80"/>
+	<Command category="Macros" name="Macro Tm90ZSBsZW5ndGggMV82NA=="/>
+	<Command category="Macros" name="Macro Tm90ZSBsZW5ndGggMV84"/>
+	<Command category="Macros" name="Macro Tm90ZSBsZW5ndGggMTEwJQ=="/>
+	<Command category="Macros" name="Macro Tm90ZSBsZW5ndGggMiBiYXJz"/>
+	<Command category="Macros" name="Macro Tm90ZSBsZW5ndGggNCBiYXJz"/>
+	<Command category="Macros" name="Macro Tm90ZSBsZW5ndGggOTAl"/>
+	<Command category="Macros" name="Macro T2N0YXZlIGRvd24="/>
+	<Command category="Macros" name="Macro T2N0YXZlIHVw"/>
+	<Command category="Macros" name="Macro UGx1Zy1JbiBNYW5hZ2Vy"/>
+	<Command category="Macros" name="Macro UXVhbnQgMV8xNg=="/>
+	<Command category="Macros" name="Macro UXVhbnQgMV80"/>
+	<Command category="Macros" name="Macro UXVhbnQgMV84"/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZSBFbmQgMV8x"/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZSBFbmQgMV8xNg=="/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZSBFbmQgMV8y"/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZSBFbmQgMV80"/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZSBFbmQgMV84"/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZSBTdGFydCArIEVuZCAxXzE="/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZSBTdGFydCArIEVuZCAxXzE2"/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZSBTdGFydCArIEVuZCAxXzI="/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZSBTdGFydCArIEVuZCAxXzQ="/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZSBTdGFydCArIEVuZCAxXzg="/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZXMgMV8x"/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZXMgMV8xNg=="/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZXMgMV8xNiBU"/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZXMgMV8y"/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZXMgMV8yIFQ="/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZXMgMV80"/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZXMgMV80IFQ="/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZXMgMV84"/>
+	<Command category="Macros" name="Macro UXVhbnRpemUgTm90ZXMgMV84IFQ="/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIExlbmd0aCAoMV84IEQgLSAxXzMyKQ=="/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIE5vdGUgTGVuZ3Ro"/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIE5vdGUgTGVuZ3RoIDUwJQ=="/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIFBpdGNoIChPcmlnaW5hbCArIFNjYWxlKQ=="/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIFBpdGNoIChPcmlnaW5hbCBQaXRjaGVzKQ=="/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIFBpdGNoIChPcmlnaW5hbCBSYW5nZSk="/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIFBpdGNoIChPcmlnaW5hbCBSYW5nZSkgMjUl"/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIFBpdGNoIChPcmlnaW5hbCBSYW5nZSkgNTAl"/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIFZlbG9jaXR5"/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIFZlbG9jaXR5IChhYm92ZSAyMCUp"/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIFZlbG9jaXR5IDI1JQ=="/>
+	<Command category="Macros" name="Macro UmFuZG9taXplIFZlbG9jaXR5IDUwJQ=="/>
+	<Command category="Macros" name="Macro Um12IEdhcHM="/>
+	<Command category="Macros" name="Macro UmVtb3ZlIE92ZXJsYXBz"/>
+	<Command category="Macros" name="Macro UmVwZWF0ZWQgc2V2ZXJhbCB0aW1lcyBUcmltIGVuZCB0byBuZXh0IHN0YXJ0"/>
+	<Command category="Macros" name="Macro UmVwZWF0ZWQgc2V2ZXJhbCB0aW1lcyBUcmltIHN0YXJ0IHRvIHByZXZpb3VzIGV2ZW50J3MgZW5k"/>
+	<Command category="Macros" name="Macro UmVzdGFydCBSZWNvcmRpbmc="/>
+	<Command category="Macros" name="Macro UmV0cm9ncmFkZSBJbnZlcnNpb24="/>
+	<Command category="Macros" name="Macro UmV2ZXJzZSBOb3Rlcw=="/>
+	<Command category="Macros" name="Macro U2FtZSBQaXRjaCAoQzEp"/>
+	<Command category="Macros" name="Macro U2VsZWN0IE5vdGVzIDFfNA=="/>
+	<Command category="Macros" name="Macro U2VsZWN0IE5vdGVzIDFfOA=="/>
+	<Command category="Macros" name="Macro U2VsZWN0IE5vdGVzIDFfOFQ="/>
+	<Command category="Macros" name="Macro U2VsZWN0IE5vdGVzIERvd25iZWF0"/>
+	<Command category="Macros" name="Macro U2VsZWN0IE5vdGVzIEV2ZXJ5IDNyZA=="/>
+	<Command category="Macros" name="Macro U2VsZWN0IE5vdGVzIEV2ZXJ5IDV0aA=="/>
+	<Command category="Macros" name="Macro U2VsZWN0IE5vdGVzIEhpZ2hlc3Q="/>
+	<Command category="Macros" name="Macro U2VsZWN0IE5vdGVzIExvd2VzdA=="/>
+	<Command category="Macros" name="Macro U2VsZWN0IE5vdGVzIE1lbnU="/>
+	<Command category="Macros" name="Macro U2VsZWN0IE5vdGVzIE9mZmJlYXQ="/>
+	<Command category="Macros" name="Macro U2VsZWN0IFBhcnRzIGluIGJldHdlZW4gU2VsZWN0aW9u"/>
+	<Command category="Macros" name="Macro U2V0IExvb3AgJiBab29tIElu"/>
+	<Command category="Macros" name="Macro U2h1ZmZsZSBOb3Rlcw=="/>
+	<Command category="Macros" name="Macro U2ltcGxpZnkgNTAl"/>
+	<Command category="Macros" name="Macro U3BsaXQgQWxsIFRyYWNrcyBhdCBNYXJrZXJz"/>
+	<Command category="Macros" name="Macro U3RhcnQgZm9sbG93cyBQbGF5YmFjaw==">
+		<Key name="Ctrl+Shift+F"/>
+	</Command>
+	<Command category="Macros" name="Macro U3VzNCBBbWJpY2hvcmQ="/>
+	<Command category="Macros" name="Macro U3VzNCBDaG9yZA=="/>
+	<Command category="Macros" name="Macro dGFiIGFuZCBwbGF5"/>
+	<Command category="Macros" name="Macro VGVtcG8gKzEl"/>
+	<Command category="Macros" name="Macro VGVtcG8gKzEwJQ=="/>
+	<Command category="Macros" name="Macro VGVtcG8gKzUl"/>
+	<Command category="Macros" name="Macro VGVtcG8gLTEl"/>
+	<Command category="Macros" name="Macro VGVtcG8gLTEwJQ=="/>
+	<Command category="Macros" name="Macro VGVtcG8gLTUl"/>
+	<Command category="Macros" name="Macro VGhpbiBvdXQ="/>
+	<Command category="Macros" name="Macro VGhpbiBvdXQgTm90ZXMgMV8x"/>
+	<Command category="Macros" name="Macro VGhpbiBvdXQgTm90ZXMgMV8xNg=="/>
+	<Command category="Macros" name="Macro VGhpbiBvdXQgTm90ZXMgMV8y"/>
+	<Command category="Macros" name="Macro VGhpbiBvdXQgTm90ZXMgMV80"/>
+	<Command category="Macros" name="Macro VGhpbiBvdXQgTm90ZXMgMV84"/>
+	<Command category="Macros" name="Macro VGhyZWUgT2N0YXZlcyBkb3du"/>
+	<Command category="Macros" name="Macro VGhyZWUgT2N0YXZlcyB1cA=="/>
+	<Command category="Macros" name="Macro VHJhY2sgWm9vbSBM"/>
+	<Command category="Macros" name="Macro VHJhY2sgWm9vbSBN"/>
+	<Command category="Macros" name="Macro VHJhY2sgWm9vbSBT"/>
+	<Command category="Macros" name="Macro VHJpbSBlbmQgdG8gbmV4dCBzdGFydA=="/>
+	<Command category="Macros" name="Macro VHJpbSBzdGFydCB0byBwcmV2aW91cyBldmVudCdzIGVuZA=="/>
+	<Command category="Macros" name="Macro VHdvIE9jdGF2ZXMgZG93bg=="/>
+	<Command category="Macros" name="Macro VHdvIE9jdGF2ZXMgdXA="/>
+	<Command category="Macros" name="Macro VmVsICsxMA=="/>
+	<Command category="Macros" name="Macro VmVsIC0xMA=="/>
+	<Command category="Macros" name="Macro VmVsIG1heA=="/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgKzEw"/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgKzI1JQ=="/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgLTEw"/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgMTEy"/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgMTY="/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgLTI1JQ=="/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgMzI="/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgNDg="/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgNjQ="/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgODA="/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgOTY="/>
+	<Command category="Macros" name="Macro VmVsb2NpdHkgbWF4"/>
+	<Command category="Macros" name="Macro Wm9vbSBPdmVydmlldw=="/>
+	<Command category="Marker" name="Delete"/>
+	<Command category="Marker" name="Goto Next Marker">
+		<Key name="Shift+N"/>
+	</Command>
+	<Command category="Marker" name="Goto Previous Marker">
+		<Key name="Shift+B"/>
+	</Command>
+	<Command category="Marker" name="Insert">
+		<Key name="Ins"/>
+		<Key name="Y"/>
+	</Command>
+	<Command category="Marker" name="Insert Named">
+		<Key name="Shift+Ins"/>
+		<Key name="Shift+Y"/>
+	</Command>
+	<Command category="Marker" name="Recall Marker">
+		<Key name="Ctrl+NumPad."/>
+	</Command>
+	<Command category="Marker" name="Recall Marker 1"/>
+	<Command category="Marker" name="Recall Marker 10"/>
+	<Command category="Marker" name="Recall Marker 11"/>
+	<Command category="Marker" name="Recall Marker 12"/>
+	<Command category="Marker" name="Recall Marker 13"/>
+	<Command category="Marker" name="Recall Marker 14"/>
+	<Command category="Marker" name="Recall Marker 15"/>
+	<Command category="Marker" name="Recall Marker 16"/>
+	<Command category="Marker" name="Recall Marker 17"/>
+	<Command category="Marker" name="Recall Marker 18"/>
+	<Command category="Marker" name="Recall Marker 19"/>
+	<Command category="Marker" name="Recall Marker 2"/>
+	<Command category="Marker" name="Recall Marker 20"/>
+	<Command category="Marker" name="Recall Marker 3"/>
+	<Command category="Marker" name="Recall Marker 4"/>
+	<Command category="Marker" name="Recall Marker 5"/>
+	<Command category="Marker" name="Recall Marker 6"/>
+	<Command category="Marker" name="Recall Marker 7"/>
+	<Command category="Marker" name="Recall Marker 8"/>
+	<Command category="Marker" name="Recall Marker 9"/>
+	<Command category="Marker" name="Set Start and End to Selection">
+		<Key name="Alt+Y"/>
+	</Command>
+	<Command category="Media" name="Convert Files"/>
+	<Command category="Media" name="Copy External Files"/>
+	<Command category="Media" name="Locate File"/>
+	<Command category="Media" name="Locate Missing Files"/>
+	<Command category="Media" name="Remove Unused Files"/>
+	<Command category="Media" name="Select on Track"/>
+	<Command category="Media" name="Show Media Folder in Explorer/Finder"/>
+	<Command category="Musical Functions" name="Apply Scale"/>
+	<Command category="Musical Functions" name="Delete Notes"/>
+	<Command category="Musical Functions" name="Distribute Notes"/>
+	<Command category="Musical Functions" name="Fill with Notes"/>
+	<Command category="Musical Functions" name="Freeze Pitch"/>
+	<Command category="Musical Functions" name="Freeze Quantize"/>
+	<Command category="Musical Functions" name="Freeze Velocity"/>
+	<Command category="Musical Functions" name="Humanize"/>
+	<Command category="Musical Functions" name="Length"/>
+	<Command category="Musical Functions" name="Mirror Notes"/>
+	<Command category="Musical Functions" name="Quantize End"/>
+	<Command category="Musical Functions" name="Quantize Notes"/>
+	<Command category="Musical Functions" name="Randomize Notes"/>
+	<Command category="Musical Functions" name="Repeat Notes to Part End"/>
+	<Command category="Musical Functions" name="Restore Velocity"/>
+	<Command category="Musical Functions" name="Select Notes"/>
+	<Command category="Musical Functions" name="Stretch"/>
+	<Command category="Musical Functions" name="Thin out Notes"/>
+	<Command category="Musical Functions" name="Transpose"/>
+	<Command category="Musical Functions" name="Velocity"/>
+	<Command category="Navigation" name="Back"/>
+	<Command category="Navigation" name="Cancel"/>
+	<Command category="Navigation" name="Down">
+		<Key name="Down Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Down Extend"/>
+	<Command category="Navigation" name="Down Extend Add">
+		<Key name="Ctrl+Shift+Down Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Down Skip">
+		<Key name="Ctrl+Down Arrow"/>
+	</Command>
+	<Command category="Navigation" name="End">
+		<Key name="End"/>
+	</Command>
+	<Command category="Navigation" name="End Extend">
+		<Key name="Shift+End"/>
+	</Command>
+	<Command category="Navigation" name="End Extend Add">
+		<Key name="Ctrl+Shift+End"/>
+	</Command>
+	<Command category="Navigation" name="End Skip">
+		<Key name="Ctrl+End"/>
+	</Command>
+	<Command category="Navigation" name="Enter"/>
+	<Command category="Navigation" name="First Event"/>
+	<Command category="Navigation" name="First Event Extend"/>
+	<Command category="Navigation" name="First Track"/>
+	<Command category="Navigation" name="First Track Extend"/>
+	<Command category="Navigation" name="Focus Next">
+		<Key name="Tab"/>
+	</Command>
+	<Command category="Navigation" name="Focus Previous">
+		<Key name="Shift+Tab"/>
+	</Command>
+	<Command category="Navigation" name="Forward"/>
+	<Command category="Navigation" name="Home"/>
+	<Command category="Navigation" name="Last Event"/>
+	<Command category="Navigation" name="Last Event Extend"/>
+	<Command category="Navigation" name="Last Track"/>
+	<Command category="Navigation" name="Last Track Extend"/>
+	<Command category="Navigation" name="Left">
+		<Key name="Left Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Left Extend">
+		<Key name="Shift+Left Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Left Extend Add">
+		<Key name="Ctrl+Shift+Left Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Left Skip">
+		<Key name="Ctrl+Left Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Next Event">
+		<Key name="&apos;"/>
+	</Command>
+	<Command category="Navigation" name="Next Event Extend"/>
+	<Command category="Navigation" name="Next Hotspot"/>
+	<Command category="Navigation" name="Next Track">
+		<Key name="Ctrl+6"/>
+	</Command>
+	<Command category="Navigation" name="Next Track Extend"/>
+	<Command category="Navigation" name="Page Down">
+		<Key name="Page Down"/>
+	</Command>
+	<Command category="Navigation" name="Page Down Extend">
+		<Key name="Shift+Page Down"/>
+	</Command>
+	<Command category="Navigation" name="Page Down Extend Add">
+		<Key name="Ctrl+Shift+Page Down"/>
+	</Command>
+	<Command category="Navigation" name="Page Down Skip">
+		<Key name="Ctrl+Page Down"/>
+	</Command>
+	<Command category="Navigation" name="Page Up">
+		<Key name="Page Up"/>
+	</Command>
+	<Command category="Navigation" name="Page Up Extend">
+		<Key name="Shift+Page Up"/>
+	</Command>
+	<Command category="Navigation" name="Page Up Extend Add">
+		<Key name="Ctrl+Shift+Page Up"/>
+	</Command>
+	<Command category="Navigation" name="Page Up Skip">
+		<Key name="Ctrl+Page Up"/>
+	</Command>
+	<Command category="Navigation" name="Previous Event">
+		<Key name=";"/>
+	</Command>
+	<Command category="Navigation" name="Previous Event Extend"/>
+	<Command category="Navigation" name="Previous Hotspot"/>
+	<Command category="Navigation" name="Previous Track"/>
+	<Command category="Navigation" name="Previous Track Extend"/>
+	<Command category="Navigation" name="Refresh"/>
+	<Command category="Navigation" name="Right">
+		<Key name="Right Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Right Extend">
+		<Key name="Shift+Right Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Right Extend Add">
+		<Key name="Ctrl+Shift+Right Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Right Skip">
+		<Key name="Ctrl+Right Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Start">
+		<Key name="Home"/>
+	</Command>
+	<Command category="Navigation" name="Start Extend">
+		<Key name="Shift+Home"/>
+	</Command>
+	<Command category="Navigation" name="Start Extend Add">
+		<Key name="Ctrl+Shift+Home"/>
+	</Command>
+	<Command category="Navigation" name="Start Skip">
+		<Key name="Ctrl+Home"/>
+	</Command>
+	<Command category="Navigation" name="Up">
+		<Key name="Up Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Up Extend"/>
+	<Command category="Navigation" name="Up Extend Add">
+		<Key name="Ctrl+Shift+Up Arrow"/>
+	</Command>
+	<Command category="Navigation" name="Up Skip">
+		<Key name="Ctrl+Up Arrow"/>
+	</Command>
+	<Command category="Note Length" name="Dotted">
+		<Key name="NumPad."/>
+	</Command>
+	<Command category="Note Length" name="Follow Quantize"/>
+	<Command category="Note Length" name="Next Base"/>
+	<Command category="Note Length" name="1/1"/>
+	<Command category="Note Length" name="1/16">
+		<Key name="NumPad6"/>
+	</Command>
+	<Command category="Note Length" name="1/2">
+		<Key name="NumPad5"/>
+	</Command>
+	<Command category="Note Length" name="1/32">
+		<Key name="NumPad3"/>
+	</Command>
+	<Command category="Note Length" name="1/4">
+		<Key name="NumPad4"/>
+	</Command>
+	<Command category="Note Length" name="1/64"/>
+	<Command category="Note Length" name="1/8">
+		<Key name="NumPad8"/>
+	</Command>
+	<Command category="Note Length" name="Previous Base"/>
+	<Command category="Note Length" name="type 2"/>
+	<Command category="Note Length" name="type 3"/>
+	<Command category="Note Length" name="type 0">
+		<Key name="NumPad9"/>
+	</Command>
+	<Command category="Note Length" name="type 1">
+		<Key name="NumPad7"/>
+	</Command>
+	<Command category="Note Repeat" name="Activate"/>
+	<Command category="Note Repeat" name="Aftertouch"/>
+	<Command category="Note Repeat" name="Key Erase Mode"/>
+	<Command category="Note Repeat" name="Key Remote"/>
+	<Command category="Note Repeat" name="Quantize"/>
+	<Command category="Note Repeat" name="Set Gate 0.2"/>
+	<Command category="Note Repeat" name="Set Gate 0.5"/>
+	<Command category="Note Repeat" name="Set Gate 1.0"/>
+	<Command category="Note Repeat" name="Set Gate 1.5"/>
+	<Command category="Note Repeat" name="Set Rate 1/16"/>
+	<Command category="Note Repeat" name="Set Rate 1/16 T"/>
+	<Command category="Note Repeat" name="Set Rate 1/2"/>
+	<Command category="Note Repeat" name="Set Rate 1/2 T"/>
+	<Command category="Note Repeat" name="Set Rate 1/32"/>
+	<Command category="Note Repeat" name="Set Rate 1/32 T"/>
+	<Command category="Note Repeat" name="Set Rate 1/4"/>
+	<Command category="Note Repeat" name="Set Rate 1/4 T"/>
+	<Command category="Note Repeat" name="Set Rate 1/64"/>
+	<Command category="Note Repeat" name="Set Rate 1/64 T"/>
+	<Command category="Note Repeat" name="Set Rate 1/8"/>
+	<Command category="Note Repeat" name="Set Rate 1/8 T"/>
+	<Command category="Note Repeat" name="Single Mode"/>
+	<Command category="Pattern" name="Clear Lane"/>
+	<Command category="Pattern" name="Clear Pattern"/>
+	<Command category="Pattern" name="Copy Lane"/>
+	<Command category="Pattern" name="Copy Pattern"/>
+	<Command category="Pattern" name="Delete Variation"/>
+	<Command category="Pattern" name="Double Lane Resolution"/>
+	<Command category="Pattern" name="Double Resolution"/>
+	<Command category="Pattern" name="Duplicate Pattern"/>
+	<Command category="Pattern" name="Duplicate Steps"/>
+	<Command category="Pattern" name="Duplicate Variation"/>
+	<Command category="Pattern" name="Edit Next Pattern"/>
+	<Command category="Pattern" name="Edit Previous Pattern"/>
+	<Command category="Pattern" name="Fill Lane"/>
+	<Command category="Pattern" name="Half Lane Resolution"/>
+	<Command category="Pattern" name="Half Resolution"/>
+	<Command category="Pattern" name="New Variation"/>
+	<Command category="Pattern" name="Set Every 2nd Step"/>
+	<Command category="Pattern" name="Set Every 4th Step"/>
+	<Command category="Pattern" name="Shift Lane"/>
+	<Command category="Pattern" name="Shift Lane Back"/>
+	<Command category="Pitch Names" name="Hide Unused"/>
+	<Command category="Pitch Names" name="Remove All"/>
+	<Command category="Pitch Names" name="Reset Order"/>
+	<Command category="Pitch Names" name="Show All"/>
+	<Command category="Pitch Names" name="Show Default"/>
+	<Command category="Presets" name="Export Preset"/>
+	<Command category="Presets" name="Import Preset"/>
+	<Command category="Presets" name="Load Preset File"/>
+	<Command category="Presets" name="Next">
+		<Key name="Alt+Page Down"/>
+	</Command>
+	<Command category="Presets" name="Previous">
+		<Key name="Alt+Page Up"/>
+	</Command>
+	<Command category="Presets" name="Re-Index Presets"/>
+	<Command category="Presets" name="Replace Preset"/>
+	<Command category="Presets" name="Reset Blacklist"/>
+	<Command category="Presets" name="Store as Default Preset"/>
+	<Command category="Presets" name="Store Preset"/>
+	<Command category="Presets" name="Update Plug-Ins"/>
+	<Command category="Project" name="Bounce Track"/>
+	<Command category="Project" name="Burn Audio CD"/>
+	<Command category="Project" name="Combine with next Track"/>
+	<Command category="Project" name="Copy Metadata to all Tracks"/>
+	<Command category="Project" name="Detect Loudness"/>
+	<Command category="Project" name="Digital Release"/>
+	<Command category="Project" name="Disable Track"/>
+	<Command category="Project" name="Enable Track"/>
+	<Command category="Project" name="Import File"/>
+	<Command category="Project" name="Locate Missing Devices"/>
+	<Command category="Project" name="Make DDP Image"/>
+	<Command category="Project" name="Make Image"/>
+	<Command category="Project" name="Project Setup"/>
+	<Command category="Project" name="Remove Track"/>
+	<Command category="Project" name="Reset Pause"/>
+	<Command category="Project" name="Reset Track Markers to Content"/>
+	<Command category="Project" name="Split Track and Event at Cursor"/>
+	<Command category="Project" name="Split Track at Cursor"/>
+	<Command category="Project" name="Update Mastering Files"/>
+	<Command category="Quantize" name="Clear Pattern"/>
+	<Command category="Quantize" name="Next Base"/>
+	<Command category="Quantize" name="Previous Base"/>
+	<Command category="Quantize" name="1/1"/>
+	<Command category="Quantize" name="1/16"/>
+	<Command category="Quantize" name="1/2"/>
+	<Command category="Quantize" name="1/32"/>
+	<Command category="Quantize" name="1/4"/>
+	<Command category="Quantize" name="1/64"/>
+	<Command category="Quantize" name="1/8"/>
+	<Command category="Quantize" name="type 2"/>
+	<Command category="Quantize" name="type 3"/>
+	<Command category="Quantize" name="Set Program A">
+		<Key name="Ctrl+Alt+1"/>
+	</Command>
+	<Command category="Quantize" name="Set Program B">
+		<Key name="Ctrl+Alt+2"/>
+	</Command>
+	<Command category="Quantize" name="Set Program C">
+		<Key name="Ctrl+Alt+3"/>
+	</Command>
+	<Command category="Quantize" name="Set Program D">
+		<Key name="Ctrl+Alt+4"/>
+	</Command>
+	<Command category="Quantize" name="Set Program E">
+		<Key name="Ctrl+Alt+5"/>
+	</Command>
+	<Command category="Quantize" name="Set Program F">
+		<Key name="Ctrl+Alt+6"/>
+	</Command>
+	<Command category="Quantize" name="Set Program G">
+		<Key name="Ctrl+Alt+7"/>
+	</Command>
+	<Command category="Quantize" name="type 0"/>
+	<Command category="Quantize" name="type 1"/>
+	<Command category="Record Functions" name="Undo All"/>
+	<Command category="Record Functions" name="Undo Last Loop"/>
+	<Command category="Record Mode" name="Input Quantize"/>
+	<Command category="Record Mode" name="Loop Record Mix"/>
+	<Command category="Record Mode" name="Loop Record Takes"/>
+	<Command category="Record Mode" name="Note Erase"/>
+	<Command category="Record Mode" name="Record Mode Replace"/>
+	<Command category="Record Mode" name="Record Takes to Layers"/>
+	<Command category="Scratch Pad" name="Add Scratch Pad"/>
+	<Command category="Scratch Pad" name="Copy Loop Range to Scratch Pad"/>
+	<Command category="Scratch Pad" name="Delete Scratch Pad"/>
+	<Command category="Scratch Pad" name="Duplicate Scratch Pad"/>
+	<Command category="Scratch Pad" name="Rename Scratch Pad"/>
+	<Command category="Song" name="Export Mixdown">
+		<Key name="Ctrl+E"/>
+	</Command>
+	<Command category="Song" name="Export Stems"/>
+	<Command category="Song" name="Import File">
+		<Key name="Ctrl+Shift+O"/>
+	</Command>
+	<Command category="Song" name="Import Song Data"/>
+	<Command category="Song" name="Locate Missing Devices"/>
+	<Command category="Song" name="Remove Track">
+		<Key name="Shift+T"/>
+	</Command>
+	<Command category="Song" name="Remove Track and Instrument"/>
+	<Command category="Song" name="Render Click"/>
+	<Command category="Song" name="Send to Notion"/>
+	<Command category="Song" name="Show in Explorer/Finder"/>
+	<Command category="Song" name="Song Information"/>
+	<Command category="Song" name="Song Setup"/>
+	<Command category="Song" name="Update Mastering File"/>
+	<Command category="Step Record" name="Back">
+		<Key name="NumPad-"/>
+	</Command>
+	<Command category="Step Record" name="Enable"/>
+	<Command category="Step Record" name="Insert Rest">
+		<Key name="NumPad+"/>
+	</Command>
+	<Command category="Tempo" name="Delete"/>
+	<Command category="Tempo" name="Insert"/>
+	<Command category="Toolbar" name="Next Tool"/>
+	<Command category="Toolbar" name="Previous Tool"/>
+	<Command category="Toolbar" name="Tool 1">
+		<Key name="1"/>
+	</Command>
+	<Command category="Toolbar" name="Tool 2">
+		<Key name="2"/>
+	</Command>
+	<Command category="Toolbar" name="Tool 3">
+		<Key name="3"/>
+	</Command>
+	<Command category="Toolbar" name="Tool 4">
+		<Key name="4"/>
+	</Command>
+	<Command category="Toolbar" name="Tool 5">
+		<Key name="5"/>
+	</Command>
+	<Command category="Toolbar" name="Tool 6">
+		<Key name="6"/>
+	</Command>
+	<Command category="Toolbar" name="Tool 7">
+		<Key name="7"/>
+	</Command>
+	<Command category="Toolbar" name="Tool 8">
+		<Key name="8"/>
+	</Command>
+	<Command category="Toolbar" name="Tool 9">
+		<Key name="9"/>
+	</Command>
+	<Command category="Track" name="Activate Layer"/>
+	<Command category="Track" name="Activate Next Layer"/>
+	<Command category="Track" name="Activate Previous Layer"/>
+	<Command category="Track" name="Add Audio Track (mono)"/>
+	<Command category="Track" name="Add Audio Track (stereo)"/>
+	<Command category="Track" name="Add Automation Track"/>
+	<Command category="Track" name="Add Bus for Selected Channels">
+		<Key name="Ctrl+B"/>
+	</Command>
+	<Command category="Track" name="Add Folder Track"/>
+	<Command category="Track" name="Add Insert to Selected Channels"/>
+	<Command category="Track" name="Add Instrument Track"/>
+	<Command category="Track" name="Add Layer">
+		<Key name="Ctrl+Shift+A"/>
+	</Command>
+	<Command category="Track" name="Add Tracks">
+		<Key name="T"/>
+	</Command>
+	<Command category="Track" name="Add Tracks for all Inputs"/>
+	<Command category="Track" name="Add VCA for Selected Channels"/>
+	<Command category="Track" name="Apply Track Names to Channels"/>
+	<Command category="Track" name="Arm">
+		<Key name="R"/>
+	</Command>
+	<Command category="Track" name="Arm All Audio Tracks"/>
+	<Command category="Track" name="Audio Input follows Selection"/>
+	<Command category="Track" name="Collapse All Tracks"/>
+	<Command category="Track" name="Disable"/>
+	<Command category="Track" name="Dissolve Group">
+		<Key name="Ctrl+Shift+G"/>
+	</Command>
+	<Command category="Track" name="Duplicate"/>
+	<Command category="Track" name="Duplicate (complete)"/>
+	<Command category="Track" name="Duplicate Layer">
+		<Key name="Ctrl+Shift+D"/>
+	</Command>
+	<Command category="Track" name="Edit"/>
+	<Command category="Track" name="Expand Envelopes">
+		<Key name="Shift+Alt+E"/>
+	</Command>
+	<Command category="Track" name="Expand Folder Track">
+		<Key name="Shift+F"/>
+	</Command>
+	<Command category="Track" name="Expand Layers"/>
+	<Command category="Track" name="Group Selected Tracks">
+		<Key name="Ctrl+G"/>
+	</Command>
+	<Command category="Track" name="Hide"/>
+	<Command category="Track" name="Instrument Input follows Selection"/>
+	<Command category="Track" name="Merge VCA Automation"/>
+	<Command category="Track" name="Monitor">
+		<Key name="U"/>
+	</Command>
+	<Command category="Track" name="Mute">
+		<Key name="M"/>
+	</Command>
+	<Command category="Track" name="Next Scene"/>
+	<Command category="Track" name="Pack Folder">
+		<Key name="Shift+G"/>
+	</Command>
+	<Command category="Track" name="Previous Scene"/>
+	<Command category="Track" name="Remove Layer">
+		<Key name="Ctrl+Shift+R"/>
+	</Command>
+	<Command category="Track" name="Remove Track Automation"/>
+	<Command category="Track" name="Rename Group"/>
+	<Command category="Track" name="Rename Layer"/>
+	<Command category="Track" name="Select Scene 1"/>
+	<Command category="Track" name="Select Scene 2"/>
+	<Command category="Track" name="Select Scene 3"/>
+	<Command category="Track" name="Select Scene 4"/>
+	<Command category="Track" name="Select Scene 5"/>
+	<Command category="Track" name="Show Envelopes">
+		<Key name="A"/>
+	</Command>
+	<Command category="Track" name="Show in Console"/>
+	<Command category="Track" name="Solo">
+		<Key name="Shift+S"/>
+	</Command>
+	<Command category="Track" name="Solo follows Selection"/>
+	<Command category="Track" name="Solo Layer"/>
+	<Command category="Track" name="Toggle Lock"/>
+	<Command category="Track" name="Transform to Audio Track"/>
+	<Command category="Track" name="Transform to Instrument Track"/>
+	<Command category="Track" name="Transform to Realtime Audio"/>
+	<Command category="Track" name="Transform to Rendered Audio">
+		<Key name="Ctrl+Alt+R"/>
+	</Command>
+	<Command category="Track" name="Transpose Instrument Tracks"/>
+	<Command category="Track" name="Unpack Layers to Tracks"/>
+	<Command category="Transport" name="Autopunch">
+		<Key name="I"/>
+	</Command>
+	<Command category="Transport" name="Autopunch In"/>
+	<Command category="Transport" name="Autopunch Out"/>
+	<Command category="Transport" name="Click">
+		<Key name="C"/>
+	</Command>
+	<Command category="Transport" name="Cursor follows Edit Position"/>
+	<Command category="Transport" name="Enable Play Start Marker"/>
+	<Command category="Transport" name="Forward">
+		<Key name="V"/>
+	</Command>
+	<Command category="Transport" name="Forward Bar">
+		<Key name="Shift+NumPad+"/>
+		<Key name="Shift+Forward"/>
+	</Command>
+	<Command category="Transport" name="Goto Loop End">
+		<Key name="NumPad2"/>
+	</Command>
+	<Command category="Transport" name="Goto Loop Start">
+		<Key name="NumPad1"/>
+	</Command>
+	<Command category="Transport" name="Goto Next Event">
+		<Key name="Shift+Alt+N"/>
+	</Command>
+	<Command category="Transport" name="Goto Previous Event"/>
+	<Command category="Transport" name="Goto Time">
+		<Key name="Ctrl+T"/>
+	</Command>
+	<Command category="Transport" name="Locate Mouse Cursor">
+		<Key name="Ctrl+Space"/>
+	</Command>
+	<Command category="Transport" name="Locate Selection">
+		<Key name="L"/>
+	</Command>
+	<Command category="Transport" name="Locate Selection End"/>
+	<Command category="Transport" name="Loop Follows Selection"/>
+	<Command category="Transport" name="Loop Selection">
+		<Key name="Shift+P"/>
+	</Command>
+	<Command category="Transport" name="Loop Selection Snapped">
+		<Key name="P"/>
+	</Command>
+	<Command category="Transport" name="Metronome Setup"/>
+	<Command category="Transport" name="Play from Loop Start"/>
+	<Command category="Transport" name="Play Selected Range"/>
+	<Command category="Transport" name="Precount">
+		<Key name="Shift+C"/>
+	</Command>
+	<Command category="Transport" name="Preroll">
+		<Key name="O"/>
+	</Command>
+	<Command category="Transport" name="Record">
+		<Key name="NumPad*"/>
+		<Key name="Record"/>
+	</Command>
+	<Command category="Transport" name="Return to Start on Stop">
+		<Key name="Shift+Alt+S"/>
+	</Command>
+	<Command category="Transport" name="Return to Zero">
+		<Key name=","/>
+	</Command>
+	<Command category="Transport" name="Rewind">
+		<Key name="Rewind"/>
+	</Command>
+	<Command category="Transport" name="Rewind Bar">
+		<Key name="Shift+NumPad-"/>
+		<Key name="Shift+Rewind"/>
+	</Command>
+	<Command category="Transport" name="Set Loop End">
+		<Key name="Alt+NumPad2"/>
+	</Command>
+	<Command category="Transport" name="Set Loop Start">
+		<Key name="Alt+NumPad1"/>
+	</Command>
+	<Command category="Transport" name="Set Play Start Marker"/>
+	<Command category="Transport" name="Shift Loop"/>
+	<Command category="Transport" name="Shift Loop Backwards"/>
+	<Command category="Transport" name="Start">
+		<Key name="Enter"/>
+	</Command>
+	<Command category="Transport" name="Stop">
+		<Key name="NumPad0"/>
+		<Key name="Stop"/>
+	</Command>
+	<Command category="Transport" name="Tap Tempo"/>
+	<Command category="Transport" name="Toggle Loop">
+		<Key name="NumPad/"/>
+		<Key name="/"/>
+	</Command>
+	<Command category="Transport" name="Toggle Start">
+		<Key name="Space"/>
+		<Key name="Play Pause"/>
+	</Command>
+	<Command category="Video" name="Export Video"/>
+	<Command category="Video" name="Extract Audio"/>
+	<Command category="Video" name="Import Video"/>
+	<Command category="Video" name="Remove Video">
+		<Key name="Ctrl+Shift+Alt+V"/>
+	</Command>
+	<Command category="Video" name="Set Video Offset"/>
+	<Command category="Video" name="Video Size Default"/>
+	<Command category="Video" name="Video Size Double"/>
+	<Command category="Video" name="Video Size Half"/>
+	<Command category="View" name="Audio Bend"/>
+	<Command category="View" name="Audio Chords"/>
+	<Command category="View" name="Browser">
+		<Key name="F5"/>
+	</Command>
+	<Command category="View" name="Chord Selector"/>
+	<Command category="View" name="Console">
+		<Key name="F3"/>
+		<Key name="Ctrl+="/>
+	</Command>
+	<Command category="View" name="Editor">
+		<Key name="F2"/>
+	</Command>
+	<Command category="View" name="Fit Timeline to Contents"/>
+	<Command category="View" name="Info View"/>
+	<Command category="View" name="Inspector">
+		<Key name="F4"/>
+	</Command>
+	<Command category="View" name="Macros (Arrangement)"/>
+	<Command category="View" name="Macros (Audio Editor)"/>
+	<Command category="View" name="Macros (Music Editor)"/>
+	<Command category="View" name="Messages"/>
+	<Command category="View" name="MIDI Monitor"/>
+	<Command category="View" name="Next Perspective">
+		<Key name="Ctrl+Tab"/>
+	</Command>
+	<Command category="View" name="Note Repeat"/>
+	<Command category="View" name="Open Arranger Track"/>
+	<Command category="View" name="Open CD Protocol"/>
+	<Command category="View" name="Open Chord Track"/>
+	<Command category="View" name="Open Marker Track"/>
+	<Command category="View" name="Open Tempo Track"/>
+	<Command category="View" name="Performance Monitor"/>
+	<Command category="View" name="Plug-In Manager"/>
+	<Command category="View" name="Previous Perspective">
+		<Key name="Ctrl+Shift+Tab"/>
+	</Command>
+	<Command category="View" name="Quantize"/>
+	<Command category="View" name="Record Panel"/>
+	<Command category="View" name="Remaining Record Time"/>
+	<Command category="View" name="Reset Window Positions"/>
+	<Command category="View" name="Scratch Pad"/>
+	<Command category="View" name="Show Groups (Channel List)"/>
+	<Command category="View" name="Show Groups (Track List)"/>
+	<Command category="View" name="Show Project"/>
+	<Command category="View" name="Show Song"/>
+	<Command category="View" name="Start Page">
+		<Key name="Alt+Home"/>
+	</Command>
+	<Command category="View" name="Step Record"/>
+	<Command category="View" name="Strip Silence"/>
+	<Command category="View" name="Time Display"/>
+	<Command category="View" name="Toggle Detached Console">
+		<Key name="Ctrl+F3"/>
+	</Command>
+	<Command category="View" name="Toggle Detached Editor">
+		<Key name="Ctrl+F2"/>
+	</Command>
+	<Command category="View" name="Toggle Floating Windows">
+		<Key name="F12"/>
+	</Command>
+	<Command category="View" name="Toggle Optional Views">
+		<Key name="Shift+F12"/>
+	</Command>
+	<Command category="View" name="Toggle Time-Linear Display"/>
+	<Command category="View" name="Track List"/>
+	<Command category="View" name="Transfers"/>
+	<Command category="View" name="Video Player"/>
+	<Command category="Zoom" name="Data Zoom In">
+		<Key name="Shift+Up Arrow"/>
+		<Key name="Ctrl+7"/>
+	</Command>
+	<Command category="Zoom" name="Data Zoom Out">
+		<Key name="Shift+Down Arrow"/>
+		<Key name="Ctrl+5"/>
+	</Command>
+	<Command category="Zoom" name="Redo Zoom">
+		<Key name="Alt+E"/>
+	</Command>
+	<Command category="Zoom" name="Restore Zoom State"/>
+	<Command category="Zoom" name="Store Zoom State">
+		<Key name="Shift+Z"/>
+	</Command>
+	<Command category="Zoom" name="Toggle Zoom">
+		<Key name="Z"/>
+	</Command>
+	<Command category="Zoom" name="Track Height 1"/>
+	<Command category="Zoom" name="Track Height 2"/>
+	<Command category="Zoom" name="Track Height 3"/>
+	<Command category="Zoom" name="Track Height 4"/>
+	<Command category="Zoom" name="Track Height 5"/>
+	<Command category="Zoom" name="Track Height 6"/>
+	<Command category="Zoom" name="Track Height 7"/>
+	<Command category="Zoom" name="Track Height 8"/>
+	<Command category="Zoom" name="Track Height Large"/>
+	<Command category="Zoom" name="Track Height Medium"/>
+	<Command category="Zoom" name="Track Height Minimal"/>
+	<Command category="Zoom" name="Track Height Normal"/>
+	<Command category="Zoom" name="Track Height Overview"/>
+	<Command category="Zoom" name="Track Height Small"/>
+	<Command category="Zoom" name="Track Height Tiny"/>
+	<Command category="Zoom" name="Track Height X-Large"/>
+	<Command category="Zoom" name="Undo Zoom">
+		<Key name="Alt+Backspace"/>
+	</Command>
+	<Command category="Zoom" name="Zoom Full">
+		<Key name="Alt+Z"/>
+	</Command>
+	<Command category="Zoom" name="Zoom Full Horizontally"/>
+	<Command category="Zoom" name="Zoom In">
+		<Key name="E"/>
+		<Key name="Ctrl++"/>
+		<Key name="Ctrl+NumPad+"/>
+	</Command>
+	<Command category="Zoom" name="Zoom In Fine"/>
+	<Command category="Zoom" name="Zoom In Vertical">
+		<Key name="Ctrl+Shift+NumPad+"/>
+	</Command>
+	<Command category="Zoom" name="Zoom Out">
+		<Key name="W"/>
+		<Key name="Ctrl+-"/>
+		<Key name="Ctrl+NumPad-"/>
+	</Command>
+	<Command category="Zoom" name="Zoom Out Fine"/>
+	<Command category="Zoom" name="Zoom Out Vertical">
+		<Key name="Shift+W"/>
+		<Key name="Ctrl+Shift+NumPad-"/>
+	</Command>
+	<Command category="Zoom" name="Zoom Selected Track"/>
+	<Command category="Zoom" name="Zoom to Loop">
+		<Key name="Shift+L"/>
+	</Command>
+	<Command category="Zoom" name="Zoom to Selection"/>
+	<Command category="Zoom" name="Zoom to Selection Horizontally">
+		<Key name="Alt+S"/>
+	</Command>
+</Commands>
