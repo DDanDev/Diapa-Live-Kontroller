@@ -21,8 +21,7 @@ One person sits in front of the multiview and operates the koolertron controller
 
 <img alt="Koolertron MacroPad Mini Keyboard" title="Koolertron MacroPad Mini Keyboard" height="200" src="./Readme%20Imgs/Kooletron%20MacroPad.jpg" />
 <p> Koolertron MacroPad </p>
-<img alt="Koolertron MacroPad Mini Keyboard" title="Koolertron MacroPad Mini Keyboard" height="300" src="./Readme%20Imgs/My%20Kooletron%20MacroPad.jpg" />
-<img alt="Koolertron MacroPad Mini Keyboard" title="Koolertron MacroPad Mini Keyboard" height="300" src="./Readme Imgs/MyKoolertronKeys.jpg" />
+<img alt="Koolertron MacroPad Mini Keyboard" title="Koolertron MacroPad Mini Keyboard" height="300" src="./Readme%20Imgs/My%20Kooletron%20MacroPad.jpg" /><img alt="Koolertron MacroPad Mini Keyboard" title="Koolertron MacroPad Mini Keyboard" height="300" src="./Readme Imgs/MyKoolertronKeys.jpg" />
 <p>My Koolertron in use and my setup of keycaps</p>
 
 
