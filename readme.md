@@ -62,7 +62,7 @@ In sequence of events:
 
 2- AutoHotKey captures certain key presses preventing them from being sent anywhere on the pc and instead executes certain pieces of code (which could also be just sending the key press of what we just pressed, if we chose to do so). Some keys are setup to perform a single action. Others have different actions for click, hold, double-click, click-and-hold. Other keys perform something different if a certain other key is being held down. One key in my setup is also a mode toggle, switching the actions performed by any number of other keys until toggled back. All these behaviours are easy to personalize in the ahk code in the repository and you can make each key do whatever you want after whatever combination. Feel free to ask for help editing the ahk. AHK is able to capture all input devices, so a simple wireless slide advancer for example has been made into a two button wireless controller which we can assign to execute anything we want on any piece of software or hardware in our setup.
 
-3- For actions on BlackMagic Design Atem Switchers, ahk sends commands through the 'companion' app. Companion buttons can be pressed by ahk by simply making it "download", in the background with no interruption, the response from companion when an url adress in its local server is accessed. This also means we could easily make other phones or computers in the same network send commands to our atem or other devices or softwares connected through companion.
+3- For actions on BlackMagic Design Atem Switchers, ahk sends commands through the 'companion' app. Companion buttons can be pressed by ahk by simply making it "download", in the background with no interruption, the response from companion when an url adress in its local server is accessed. The response is saved in the same directory as the ahk or exe is run from with name "httpreply". This also means we could easily make other phones or computers in the same network send commands to our atem or other devices or softwares connected through companion.
 
 4- For OBS we can simply have ahk perform normal keypresses binded in OBS settings to perform actions, as OBS can receive the keybinds on the background. We don't even need to send these keys directly into OBS, but we could if they would cause conflicts with other programs. I use f13 through f24 as inputs for OBS keybinds so no conflicts or accidental actions ever happen. 
 
@@ -80,9 +80,9 @@ Follow the setup of the different pieces required to make it all work, in no par
 
 ---
 ### <img alt="AutoHotKey AHK Logo" src="https://www.autohotkey.com/static/ahk_logo_no_text.svg" height="40" /> AutoHotKey
-If you use my setup as is you don't need to install AHK, <a href="./v5 (Add Aux for Damasio) Diapason Live Komplete Kompletely Kool Koolertron Kontroler - Copy.exe">just use the .exe file.</a>
+If you use my setup as is you don't need to install AHK, <a href="./EXE v5 Diapason Live Komplete Kompletely Kool Koolertron Kontroler.exe">just use the .exe file.</a>
 
-If you are going to change or customize something you will need to <a href="v5 (Add Aux for Damasio) Diapason Live Komplete Kompletely Kool Koolertron Kontroler - Copy.ahk">download my .ahk file</a> and install ahk to your computer so you can run the script and eventually compile it to exe. Get it here: https://www.autohotkey.com/
+If you are going to change or customize something you will need to <a href="./AHK (Editable) v5 Diapason Live Komplete Kompletely Kool Koolertron Kontroler.ahk">download my .ahk file</a> and install ahk to your computer so you can run the script and eventually compile it to exe. Get it here: https://www.autohotkey.com/
 
 <br><br>
 
