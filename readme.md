@@ -29,6 +29,7 @@ One person sits in front of the multiview and operates the koolertron controller
 <br>
 
 The ahk in this repository is currently assigned as follows:
+
 -|-|-|-|-|-
 ---|----|----|----|----|----
 BlackMagic Atem Upstream Key <br>Cut On/Off | BM DownStream Key 1 Cut (click) <br> or Auto transition (Hold) | BM DSK2 <br>Cut/Auto <br>(click/hold) | OBS Source Toggle | Another OBS Source Toggle | OBS Cut (click) <br> Toggle Studio Mode (Hold) <br> Auto Transition (Double click)
