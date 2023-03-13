@@ -111,6 +111,7 @@ If you go with a 23 keys Koolertron MacroPad, <a href="Configuration Presets\koo
 The configuration GUI will not have any way of choosing the upper F keys (F13 ~ F24) so they were manually edited in the .hex file the gui saves as preset then loaded back in.
 
 My .hex file is a preset for the following layout binded to the keys:
+
 -|-|-|-|-|-
 ---|---|---|---|---|---
 F13|    F14|	F15|	F16|	F17|	F18
@@ -121,6 +122,7 @@ F1|	F2|	F3|	F11|	|ScrollLock
 Note these F keys and the ScrollLock will be disabled for anything else they would do on your computer once you run the ahk. That's why F4 and F5 were skipped. The person using the main keyboard should also take care about these keys knowing they would trigger actions just the same as the keys presses coming from the koolertron.
 
 For easy reference here are the current keybinds as they are in the saved files in this repo, abbreviated from their full description above.
+
 -|-|-|-|-|-
 ---|----|----|----|----|----
 BMUSK | BMDSK1 | BMDSK2 | OBSSource1 | OBSSource2 | OBSCut/Auto/Studio
